@@ -5,10 +5,30 @@
     --dl-color-default-darklavad46c3: rgba(62, 52, 42, 1);
   }
   
+  @font-face {
+    font-family: 'Landasans';
+    src: url('/css/fonts/landasans-medium-webfont.woff2') format('woff2'),
+         url('/css/fonts/landasans-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geneva';
+  src: url('/css/fonts/geneva-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
   html {
     scroll-behavior: smooth;
+    margin: auto;
+    display: table;
   }
-
+  
+  body {
+    background-color: var(--dl-color-default-snow811f9);
+  }
   .projectspage752509-projectspage752509 {
     width: 1440px;
     height: 1448px;
@@ -209,13 +229,13 @@
     top: 0px;
     left: 0px;
     color: rgba(252, 175, 37, 1);
-    width: 346px;
+    width: 350px;
     height: auto;
     position: absolute;
     font-size: 71.57717895507812px;
     align-self: auto;
     font-style: normal;
-    text-align: left;
+    text-align: center;
     font-family: Landasans;
     font-weight: 500px;
     line-height: normal;
