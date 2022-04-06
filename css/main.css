@@ -1,0 +1,555 @@
+:root{
+  --dl-color-default-granitegray63d72: rgba(113, 102, 90, 1);
+  --dl-color-default-snow811f9: rgba(253, 251, 254, 1);
+  --dl-color-default-cultured8f9a2: rgba(242, 242, 242, 1);
+  --dl-color-default-darklavad46c3: rgba(62, 52, 42, 1);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.homequickportfolio12-homequickportfolio12 {
+  width: 1440px;
+  height: 2358px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.homequickportfolio12-overlay425 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 2358px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-snow811f9);
+}
+.homequickportfolio12-resumelogo2728 {
+  top: 550px;
+  left: 368px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.homequickportfolio12-image {
+  top: 4px;
+  left: 8px;
+  width: 33px;
+  height: 42px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.homequickportfolio12-text {
+  top: 239px;
+  left: 292px;
+  color: rgba(252, 175, 37, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-mebackground2119 {
+  top: 260px;
+  left: 806px;
+  width: 367px;
+  height: 367px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 0 0 0 70px;
+  background-image: url("/assets/home/me_background.png");
+}
+.homequickportfolio12-me2118 {
+  top: 239px;
+  left: 781px;
+  width: 367px;
+  height: 367px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 0 0 0 70px;
+  background-image: url("/assets/home/me.png");
+}
+.homequickportfolio12-text01 {
+  top: 338px;
+  left: 292px;
+  color: var(--dl-color-default-granitegray63d72);
+  width: 418px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-svg {
+  top: 550px;
+  left: 292px;
+  width: 50;
+  height: 50;
+  position: absolute;
+}
+.homequickportfolio12-navlink {
+  display: contents;
+}
+.homequickportfolio12-scourtitlecard46160 {
+  top: 755px;
+  left: 793px;
+  width: 438px;
+  height: 438px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 15px;
+  transition: all 0.2s ease;
+}
+.homequickportfolio12-scourtitlecard46160:hover {
+  transform: scale(1.1);
+}
+.homequickportfolio12-image1 {
+  top: 0px;
+  left: 0px;
+  width: 438px;
+  height: 438px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.homequickportfolio12-navlink1 {
+  display: contents;
+}
+.homequickportfolio12-appiconprojecttitlecard826871 {
+  top: 755px;
+  left: 207px;
+  width: 438px;
+  height: 438px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 15px;
+  transition: all 0.2s ease;
+}
+.homequickportfolio12-appiconprojecttitlecard826871:hover {
+  transform: scale(1.1);
+}
+.homequickportfolio12-image2 {
+  top: 0px;
+  left: 0px;
+  width: 438px;
+  height: 438px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.homequickportfolio12-navlink2 {
+  display: contents;
+}
+.homequickportfolio12-fitchecktitlecard46129 {
+  top: 1258px;
+  left: 209px;
+  width: 438px;
+  height: 438px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 15px;
+  transition: all 0.2s ease;
+}
+.homequickportfolio12-fitchecktitlecard46129:hover {
+  transform: scale(1.1);
+}
+.homequickportfolio12-image3 {
+  top: -8px;
+  left: 0px;
+  width: 438px;
+  height: 438px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.homequickportfolio12-navlink3 {
+  display: contents;
+}
+.homequickportfolio12-tenkititlecard46161 {
+  top: 1258px;
+  left: 793px;
+  width: 438px;
+  height: 438px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 15px;
+  background-color: var(--dl-color-default-cultured8f9a2);
+  transition: all 0.2s ease;
+}
+.homequickportfolio12-tenkititlecard46161:hover {
+  transform: scale(1.1);
+}
+.homequickportfolio12-image4 {
+  top: 14px;
+  left: 0px;
+  width: 438px;
+  height: 438px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.homequickportfolio12-personallogo193 {
+  top: 28px;
+  left: 547px;
+  width: 346px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.homequickportfolio12-layer1194 {
+  width: 346px;
+  height: 94px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.homequickportfolio12-text02 {
+  top: 0px;
+  left: 0px;
+  color: rgba(252, 175, 37, 1);
+  width: 346px;
+  height: auto;
+  position: absolute;
+  font-size: 71.57717895507812px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Landasans;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-topnavbar2115 {
+  top: 50px;
+  left: 56px;
+  width: 1328px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.homequickportfolio12-frame2218 {
+  margin: 0 771px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.homequickportfolio12-text03 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 50px 0 0;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.homequickportfolio12-text04 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-frame32113 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.homequickportfolio12-text05 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  margin: 0 50px 0 0;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-text06 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-bottombar3817 {
+  top: 2282px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 10px 50px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: var(--dl-color-default-snow811f9);
+}
+.homequickportfolio12-text07 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 955px 0 0;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-frame93816 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.homequickportfolio12-image5 {
+  width: 56px;
+  height: 56px;
+  margin: 0 20px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.homequickportfolio12-text08 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-secrettunnel3821 {
+  top: 0px;
+  left: 670px;
+  width: 100px;
+  height: 1px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.homequickportfolio12-aboutlinks3856 {
+  top: 1905px;
+  left: -1px;
+  width: 1441px;
+  display: flex;
+  padding: 50px 100px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: var(--dl-color-default-cultured8f9a2);
+}
+.homequickportfolio12-frame133855 {
+  margin: 0 155px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.homequickportfolio12-text09 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 0 21px 0;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-frame123854 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.homequickportfolio12-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 401px;
+  height: auto;
+  margin: 0 0 21px 0;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-text11 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-frame113848 {
+  width: 300px;
+  height: 170px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.homequickportfolio12-text12 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 0 53px 0;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.homequickportfolio12-frame103844 {
+  width: 300px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.homequickportfolio12-svg1 {
+  width: 50;
+  height: 50;
+  margin: 0 75px 0 0;
+}
+.homequickportfolio12-svg2 {
+  width: 50;
+  height: 42;
+  margin: 0 75px 0 0;
+}
+.homequickportfolio12-svg3 {
+  width: 50;
+  height: 50;
+}

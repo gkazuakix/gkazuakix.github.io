@@ -1,0 +1,424 @@
+:root{
+    --dl-color-default-granitegray63d72: rgba(113, 102, 90, 1);
+    --dl-color-default-snow811f9: rgba(253, 251, 254, 1);
+    --dl-color-default-cultured8f9a2: rgba(242, 242, 242, 1);
+    --dl-color-default-darklavad46c3: rgba(62, 52, 42, 1);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .aboutpage4663-aboutpage4663 {
+    width: 1440px;
+    height: 1334px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .aboutpage4663-overlay4664 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1334px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: var(--dl-color-default-snow811f9);
+  }
+  .aboutpage4663-text {
+    top: 239px;
+    left: 730px;
+    color: rgba(0, 0, 0, 1);
+    width: 564px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text01 {
+    color: rgba(0, 0, 0, 1);
+    width: 564px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text07 {
+    color: rgba(252, 175, 37, 1);
+    width: 564px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text08 {
+    color: rgba(0, 0, 0, 1);
+    width: 564px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text09 {
+    color: rgba(252, 175, 37, 1);
+    width: 564px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text10 {
+    color: rgba(0, 0, 0, 1);
+    width: 564px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-topnavbar4683 {
+    top: 50px;
+    left: 56px;
+    width: 1328px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .aboutpage4663-frame24684 {
+    margin: 0 771px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .aboutpage4663-text11 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 50px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text12 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-frame34687 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .aboutpage4663-text13 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 50px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-text14 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .aboutpage4663-bottombar4690 {
+    top: 1258px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    padding: 10px 50px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: var(--dl-color-default-snow811f9);
+  }
+  .aboutpage4663-text15 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 955px 0 0;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-frame94692 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    justify-content: flex-end;
+  }
+  .aboutpage4663-image {
+    width: 56px;
+    height: 56px;
+    margin: 0 20px 0 0;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .aboutpage4663-text16 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-secrettunnel4696 {
+    top: 0px;
+    left: 670px;
+    width: 100px;
+    height: 1px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .aboutpage4663-frame1446128 {
+    top: 239px;
+    left: 272px;
+    width: 312px;
+    height: 460px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 0 30px 0 0;
+    background-image: url("/assets/about/Frame 14.png");
+  }
+  .aboutpage4663-aboutlinks46131 {
+    top: 988px;
+    left: -1px;
+    width: 1441px;
+    height: 270px;
+    display: flex;
+    padding: 50px 100px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: var(--dl-color-default-cultured8f9a2);
+  }
+  .aboutpage4663-frame1146137 {
+    width: 300px;
+    height: 170px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .aboutpage4663-text17 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 0 53px 0;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-frame1118236 {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .aboutpage4663-svg {
+    width: 50;
+    height: 50;
+    margin: 0 75px 0 0;
+  }
+  .aboutpage4663-svg1 {
+    width: 50;
+    height: 42;
+    margin: 0 75px 0 0;
+  }
+  .aboutpage4663-svg2 {
+    width: 50;
+    height: 50;
+  }
+  .aboutpage4663-frame1551163 {
+    top: 801px;
+    left: 936px;
+    width: 358px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    justify-content: flex-end;
+  }
+  .aboutpage4663-text18 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 31px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .aboutpage4663-resumelogo4665 {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .aboutpage4663-image1 {
+    top: 4px;
+    left: 8px;
+    width: 33px;
+    height: 42px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .aboutpage4663-navlink {
+    display: contents;
+  }
+  .aboutpage4663-personallogo46156 {
+    top: 28px;
+    left: 547px;
+    width: 346px;
+    height: 94px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .aboutpage4663-layer146157 {
+    width: 346px;
+    height: 94px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .aboutpage4663-text19 {
+    top: 0px;
+    left: 0px;
+    color: rgba(252, 175, 37, 1);
+    width: 346px;
+    height: auto;
+    position: absolute;
+    font-size: 71.57717895507812px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Landasans;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  

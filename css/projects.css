@@ -1,0 +1,499 @@
+:root{
+    --dl-color-default-granitegray63d72: rgba(113, 102, 90, 1);
+    --dl-color-default-snow811f9: rgba(253, 251, 254, 1);
+    --dl-color-default-cultured8f9a2: rgba(242, 242, 242, 1);
+    --dl-color-default-darklavad46c3: rgba(62, 52, 42, 1);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .projectspage752509-projectspage752509 {
+    width: 1440px;
+    height: 1448px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .projectspage752509-overlay752510 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1448px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: var(--dl-color-default-snow811f9);
+  }
+  .projectspage752509-navlink {
+    display: contents;
+  }
+  .projectspage752509-scourtitlecard752573 {
+    top: 239px;
+    left: 585px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 9.315069198608398px;
+  }
+  .projectspage752509-image {
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 272px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectspage752509-navlink1 {
+    display: contents;
+  }
+  .projectspage752509-fitchecktitlecard752646 {
+    top: 239px;
+    left: 877px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 9.315069198608398px;
+  }
+  .projectspage752509-image1 {
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 272px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectspage752509-navlink2 {
+    display: contents;
+  }
+  .projectspage752509-appiconprojecttitlecard763308 {
+    top: 239px;
+    left: 293px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 9.315069198608398px;
+  }
+  .projectspage752509-image2 {
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 272px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectspage752509-futuretitlecard753288 {
+    top: 531px;
+    left: 584px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 9.315069198608398px;
+    background-color: var(--dl-color-default-cultured8f9a2);
+  }
+  .projectspage752509-frame16753307 {
+    top: 95px;
+    left: 62px;
+    width: 148px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectspage752509-svg {
+    width: 25;
+    height: 25;
+    margin: 0 0 16px 0;
+  }
+  .projectspage752509-text {
+    color: var(--dl-color-default-granitegray63d72);
+    width: 148px;
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-navlink3 {
+    display: contents;
+  }
+  .projectspage752509-tenkititlecard752655 {
+    top: 531px;
+    left: 292px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 9.315069198608398px;
+    background-color: var(--dl-color-default-cultured8f9a2);
+  }
+  .projectspage752509-image3 {
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 272px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectspage752509-navlink4 {
+    display: contents;
+  }
+  .projectspage752509-personallogo752661 {
+    top: 28px;
+    left: 547px;
+    width: 346px;
+    height: 94px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectspage752509-layer1752662 {
+    width: 346px;
+    height: 94px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .projectspage752509-text01 {
+    top: 0px;
+    left: 0px;
+    color: rgba(252, 175, 37, 1);
+    width: 346px;
+    height: auto;
+    position: absolute;
+    font-size: 71.57717895507812px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Landasans;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-topnavbar752664 {
+    top: 50px;
+    left: 56px;
+    width: 1328px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .projectspage752509-frame2752665 {
+    margin: 0 771px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .projectspage752509-text02 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 50px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-text03 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .projectspage752509-frame3752668 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .projectspage752509-text04 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 50px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-text05 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-bottombar752671 {
+    top: 1372px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    padding: 10px 50px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: var(--dl-color-default-snow811f9);
+  }
+  .projectspage752509-text06 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 955px 0 0;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-frame9752673 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    justify-content: flex-end;
+  }
+  .projectspage752509-image4 {
+    width: 56px;
+    height: 56px;
+    margin: 0 20px 0 0;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectspage752509-text07 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-secrettunnel752677 {
+    top: 0px;
+    left: 670px;
+    width: 100px;
+    height: 1px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .projectspage752509-aboutlinks752678 {
+    top: 995px;
+    left: -1px;
+    width: 1441px;
+    display: flex;
+    padding: 50px 100px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: var(--dl-color-default-cultured8f9a2);
+  }
+  .projectspage752509-frame13752679 {
+    margin: 0 155px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectspage752509-text08 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 0 21px 0;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-frame12752681 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .projectspage752509-text09 {
+    color: rgba(0, 0, 0, 1);
+    width: 401px;
+    height: auto;
+    margin: 0 0 21px 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-text10 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-frame11752684 {
+    width: 300px;
+    height: 170px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-end;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectspage752509-text11 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 0 53px 0;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectspage752509-frame10752686 {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .projectspage752509-svg1 {
+    width: 50;
+    height: 50;
+    margin: 0 75px 0 0;
+  }
+  .projectspage752509-svg2 {
+    width: 50;
+    height: 42;
+    margin: 0 75px 0 0;
+  }
+  .projectspage752509-svg3 {
+    width: 50;
+    height: 50;
+  }
+  

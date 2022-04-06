@@ -1,0 +1,824 @@
+:root{
+    --dl-color-default-granitegray63d72: rgba(113, 102, 90, 1);
+    --dl-color-default-snow811f9: rgba(253, 251, 254, 1);
+    --dl-color-default-cultured8f9a2: rgba(242, 242, 242, 1);
+    --dl-color-default-darklavad46c3: rgba(62, 52, 42, 1);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .projectsscourmobileappui1063945-projectsscourmobileappui1063945 {
+  width: 1440px;
+  height: 4972px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.projectsscourmobileappui1063945-overlay1063946 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 4972px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-snow811f9);
+}
+.projectsscourmobileappui1063945-navlink {
+  display: contents;
+}
+.projectsscourmobileappui1063945-personallogo1063947 {
+  top: 28px;
+  left: 547px;
+  width: 346px;
+  height: 94px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.projectsscourmobileappui1063945-layer11063948 {
+  width: 346px;
+  height: 94px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text {
+  top: 0px;
+  left: 0px;
+  color: rgba(252, 175, 37, 1);
+  width: 346px;
+  height: auto;
+  position: absolute;
+  font-size: 71.57717895507812px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Landasans;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-topnavbar1063950 {
+  top: 50px;
+  left: 56px;
+  width: 1328px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.projectsscourmobileappui1063945-frame21063951 {
+  margin: 0 771px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text01 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  margin: 0 50px 0 0;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-text02 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.projectsscourmobileappui1063945-frame31063954 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text03 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  margin: 0 50px 0 0;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-text04 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-bottombar1063957 {
+  top: 4896px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  padding: 10px 50px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: var(--dl-color-default-snow811f9);
+}
+.projectsscourmobileappui1063945-text05 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 955px 0 0;
+  font-size: 14px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-frame91063959 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.projectsscourmobileappui1063945-image {
+  width: 56px;
+  height: 56px;
+  margin: 0 20px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text06 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-secrettunnel1063963 {
+  top: 0px;
+  left: 670px;
+  width: 100px;
+  height: 1px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-aboutlinks1063964 {
+  top: 4519px;
+  left: -1px;
+  width: 1441px;
+  display: flex;
+  padding: 50px 100px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: var(--dl-color-default-cultured8f9a2);
+}
+.projectsscourmobileappui1063945-frame131063965 {
+  margin: 0 155px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.projectsscourmobileappui1063945-text07 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 0 21px 0;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-frame121063967 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.projectsscourmobileappui1063945-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 401px;
+  height: auto;
+  margin: 0 0 21px 0;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-text09 {
+  color: var(--dl-color-default-granitegray63d72);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-frame111063970 {
+  width: 300px;
+  height: 170px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.projectsscourmobileappui1063945-text10 {
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  margin: 0 0 53px 0;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-frame101063972 {
+  width: 300px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.projectsscourmobileappui1063945-svg {
+  width: 50;
+  height: 50;
+  margin: 0 75px 0 0;
+}
+.projectsscourmobileappui1063945-svg1 {
+  width: 50;
+  height: 42;
+  margin: 0 75px 0 0;
+}
+.projectsscourmobileappui1063945-svg2 {
+  width: 50;
+  height: 50;
+}
+.projectsscourmobileappui1063945-image01 {
+  top: 1305px;
+  left: 366px;
+  width: 708px;
+  height: 352px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-frame181063991 {
+  top: 189px;
+  left: 0px;
+  width: 1440px;
+  height: 372px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: var(--dl-color-default-darklavad46c3);
+}
+.projectsscourmobileappui1063945-appiconprojecttitlecard1063992 {
+  top: 50px;
+  left: 146px;
+  width: 272px;
+  height: 272px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 9.315069198608398px;
+}
+.projectsscourmobileappui1063945-image02 {
+  top: 0px;
+  left: 0px;
+  width: 272px;
+  height: 272px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-frame171064043 {
+  top: 50px;
+  left: 486px;
+  width: 899px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.projectsscourmobileappui1063945-text11 {
+  color: var(--dl-color-default-cultured8f9a2);
+  height: auto;
+  margin: 0 0 37px 0;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-text12 {
+  color: var(--dl-color-default-snow811f9);
+  width: 899px;
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-text13 {
+  top: 1488px;
+  left: 292px;
+  color: var(--dl-color-default-darklavad46c3);
+  width: 856px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-group51245477 {
+  top: 1910px;
+  left: 156px;
+  width: 1129px;
+  height: 633.0004272460938px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-scourpagehome1244723 {
+  top: 1px;
+  left: 0px;
+  width: 292px;
+  height: 632.0004272460938px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.projectsscourmobileappui1063945-image03 {
+  top: 0px;
+  left: 0px;
+  width: 292px;
+  height: 633px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text23 {
+  top: 150px;
+  left: 327px;
+  color: var(--dl-color-default-granitegray63d72);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-text29 {
+  top: 150px;
+  left: 911px;
+  color: var(--dl-color-default-granitegray63d72);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-scourpagescourresults1245215 {
+  top: 0px;
+  left: 584px;
+  width: 292px;
+  height: 632px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.projectsscourmobileappui1063945-image04 {
+  top: 0px;
+  left: 0px;
+  width: 292px;
+  height: 632px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-svg3 {
+  top: 88px;
+  left: 243px;
+  width: 346;
+  height: 66;
+  position: absolute;
+}
+.projectsscourmobileappui1063945-i-phone13pro1244702 {
+  top: 652px;
+  left: 417px;
+  width: 606px;
+  height: 733px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-frame31244703 {
+  top: 84px;
+  left: 388px;
+  width: 218px;
+  height: 553px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image05 {
+  top: 0px;
+  left: 0px;
+  width: 218px;
+  height: 553px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-mockup1244705 {
+  top: 13px;
+  left: 8px;
+  width: 182px;
+  height: 527px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image06 {
+  top: -3px;
+  left: -4px;
+  width: 188px;
+  height: 531px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image07 {
+  top: 0px;
+  left: 0px;
+  width: 218px;
+  height: 553px;
+  opacity: 0.50;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-frame11244710 {
+  top: 0px;
+  left: 0px;
+  width: 217px;
+  height: 576px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image08 {
+  top: 0px;
+  left: 0px;
+  width: 217px;
+  height: 576px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-mockup1244712 {
+  top: 13px;
+  left: 30px;
+  width: 179px;
+  height: 549px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image09 {
+  top: -4px;
+  left: -1px;
+  width: 181px;
+  height: 554px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image10 {
+  top: 8px;
+  left: 2px;
+  width: 215px;
+  height: 568px;
+  opacity: 0.50;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-frame21244717 {
+  top: 171px;
+  left: 203px;
+  width: 204px;
+  height: 562px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image11 {
+  top: 0px;
+  left: 0px;
+  width: 204px;
+  height: 562px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-mockup1244719 {
+  top: 13px;
+  left: 29px;
+  width: 167px;
+  height: 535px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image12 {
+  top: -4px;
+  left: -1px;
+  width: 169px;
+  height: 541px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-video1285478 {
+  top: 2630px;
+  left: 146px;
+  width: 563px;
+  height: 397px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: transparent;
+}
+.projectsscourmobileappui1063945-frame191355621 {
+  top: 2630px;
+  left: 857px;
+  width: 309px;
+  height: 336px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.projectsscourmobileappui1063945-logo1335611 {
+  width: 249px;
+  height: 83px;
+  margin: 0 0 61px 0;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-layer21335612 {
+  top: 0px;
+  left: 0px;
+  width: 249px;
+  height: 83px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image13 {
+  top: 0px;
+  left: 0px;
+  width: 249px;
+  height: 83px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text39 {
+  color: var(--dl-color-default-granitegray63d72);
+  width: 309px;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.projectsscourmobileappui1063945-image14 {
+  top: 3784px;
+  left: 146px;
+  width: 1148px;
+  height: 532px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image15 {
+  top: 3091px;
+  left: 146px;
+  width: 1148px;
+  height: 720px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-image16 {
+  top: 3263px;
+  left: 730px;
+  width: 535px;
+  height: 473px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.projectsscourmobileappui1063945-text53 {
+  top: 3145px;
+  left: 730px;
+  color: var(--dl-color-default-darklavad46c3);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Geneva;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

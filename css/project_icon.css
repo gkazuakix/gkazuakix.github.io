@@ -1,0 +1,496 @@
+:root{
+    --dl-color-default-granitegray63d72: rgba(113, 102, 90, 1);
+    --dl-color-default-snow811f9: rgba(253, 251, 254, 1);
+    --dl-color-default-cultured8f9a2: rgba(242, 242, 242, 1);
+    --dl-color-default-darklavad46c3: rgba(62, 52, 42, 1);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .projectsiconpack951221-projectsiconpack951221 {
+    width: 1440px;
+    height: 2890px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .projectsiconpack951221-overlay951222 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 2890px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: var(--dl-color-default-snow811f9);
+  }
+  .projectsiconpack951221-navlink {
+    display: contents;
+  }
+  .projectsiconpack951221-personallogo951371 {
+    top: 28px;
+    left: 547px;
+    width: 346px;
+    height: 94px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectsiconpack951221-layer1951372 {
+    width: 346px;
+    height: 94px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-text {
+    top: 0px;
+    left: 0px;
+    color: rgba(252, 175, 37, 1);
+    width: 346px;
+    height: auto;
+    position: absolute;
+    font-size: 71.57717895507812px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Landasans;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-topnavbar951374 {
+    top: 50px;
+    left: 56px;
+    width: 1328px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .projectsiconpack951221-frame2951375 {
+    margin: 0 771px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-text01 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 50px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-text02 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .projectsiconpack951221-frame3951378 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-text03 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    margin: 0 50px 0 0;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-text04 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-bottombar951381 {
+    top: 2814px;
+    left: 0px;
+    width: 1440px;
+    display: flex;
+    padding: 10px 50px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: var(--dl-color-default-snow811f9);
+  }
+  .projectsiconpack951221-text05 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 955px 0 0;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-frame9951383 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    flex-shrink: 1;
+    border-color: transparent;
+    justify-content: flex-end;
+  }
+  .projectsiconpack951221-image {
+    width: 56px;
+    height: 56px;
+    margin: 0 20px 0 0;
+    position: relative;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-text06 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-secrettunnel951387 {
+    top: 0px;
+    left: 670px;
+    width: 100px;
+    height: 1px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-aboutlinks951388 {
+    top: 2437px;
+    left: -1px;
+    width: 1441px;
+    display: flex;
+    padding: 50px 100px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: var(--dl-color-default-cultured8f9a2);
+  }
+  .projectsiconpack951221-frame13951389 {
+    margin: 0 155px 0 0;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectsiconpack951221-text07 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 0 21px 0;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-frame12951391 {
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .projectsiconpack951221-text08 {
+    color: rgba(0, 0, 0, 1);
+    width: 401px;
+    height: auto;
+    margin: 0 0 21px 0;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-text09 {
+    color: var(--dl-color-default-granitegray63d72);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-frame11951394 {
+    width: 300px;
+    height: 170px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-end;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectsiconpack951221-text10 {
+    color: var(--dl-color-default-darklavad46c3);
+    height: auto;
+    margin: 0 0 53px 0;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-frame10951396 {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+  }
+  .projectsiconpack951221-svg {
+    width: 50;
+    height: 50;
+    margin: 0 75px 0 0;
+  }
+  .projectsiconpack951221-svg1 {
+    width: 50;
+    height: 42;
+    margin: 0 75px 0 0;
+  }
+  .projectsiconpack951221-svg2 {
+    width: 50;
+    height: 50;
+  }
+  .projectsiconpack951221-image1 {
+    top: 652px;
+    left: 418px;
+    width: 271px;
+    height: 588px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-image2 {
+    top: 1305px;
+    left: 366px;
+    width: 708px;
+    height: 352px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-image3 {
+    top: 652px;
+    left: 750px;
+    width: 272px;
+    height: 589px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 15px;
+  }
+  .projectsiconpack951221-frame18972006 {
+    top: 189px;
+    left: 0px;
+    width: 1440px;
+    height: 372px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: var(--dl-color-default-darklavad46c3);
+  }
+  .projectsiconpack951221-appiconprojecttitlecard951305 {
+    top: 50px;
+    left: 146px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 9.315069198608398px;
+  }
+  .projectsiconpack951221-image4 {
+    top: 0px;
+    left: 0px;
+    width: 272px;
+    height: 272px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .projectsiconpack951221-frame17951999 {
+    top: 50px;
+    left: 486px;
+    width: 702px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .projectsiconpack951221-text11 {
+    color: var(--dl-color-default-cultured8f9a2);
+    height: auto;
+    margin: 0 0 37px 0;
+    font-size: 50px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-text12 {
+    color: var(--dl-color-default-snow811f9);
+    height: auto;
+    margin: 0 0 37px 0;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-text18 {
+    color: rgba(252, 175, 37, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-text19 {
+    top: 1345px;
+    left: 292px;
+    color: var(--dl-color-default-darklavad46c3);
+    width: 856px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Geneva;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .projectsiconpack951221-image5 {
+    top: 1727px;
+    left: 146px;
+    width: 1148px;
+    height: 571px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 15px;
+  }
+  
